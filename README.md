@@ -2,7 +2,7 @@
 - 👀 I’m interested in App and web dev
 - 🌱 I’m currently learning Next JS and Flutter
 - 💞️ I’m looking to collaborate on Websites Front end 
-- 📫 How to reach me mouloudhasrane@gmail.com
+- 📫 How to reach me mouloudhasrane24@gmail.com
 - ⚡ Fun fact:   The first Bug was a real bug 
 
 <!---
