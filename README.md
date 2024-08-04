@@ -21,9 +21,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mouloud hasrane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mouloud hasrane" height="30" width="40" /></a>
-<a href="https://fb.com/mouloud titou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mouloud titou" height="30" width="40" /></a>
-<a href="https://instagram.com/mld.rar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mld.rar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mouloud-hasrane-85bb47291/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mouloud hasrane" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mouloud.dz.98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mouloud titou" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mld.rar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mld.rar" height="30" width="40" /></a>
 <a href="https://medium.com/@mouloudhasrane24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mouloudhasrane24" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mouloud24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mouloud24" height="30" width="40" /></a>
 </p>
