@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mouloud240" alt="mouloud240" /></a> </p>
 
-- 🔭 I’m currently working on [Chatti](https://github.com/mouloud240/chatti)
+- 🔭 I’m currently working on [Expense-tracker](https://github.com/mouloud240/Expense-Tracker-App)
 
 - 🌱 I’m currently learning **Express js,Flutter**
 
