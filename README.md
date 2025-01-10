@@ -1,4 +1,8 @@
 <div align="center">
+  <div align="center">
+<img src="https://komarev.com/ghpvc/?username=mouloud240&&style=flat-square" align="center" />
+</div>  
+  
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" />
 </div>  
   
@@ -116,21 +120,13 @@ Databases,and problem solving
 <br/>  
 
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
 
-<br/>  
 
 <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=mouloud240&&style=flat-square" align="center" />
-</div>  
-  
+
 
 <br/>  
 
