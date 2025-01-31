@@ -135,7 +135,8 @@ Databases,and problem solving  .
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
+<!-- BLOG-POST-LIST:START -->
+- [Understanding Replication and Sharding in System Design](https://dev.to/mouloud_hasrane_c99b0f49a/understanding-replication-and-sharding-in-system-design-50o)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
