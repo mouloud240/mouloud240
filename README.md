@@ -7,7 +7,7 @@
 </div>  
   
 
-### <div align="center">I'm Mouloud, a 2nd year software engineering student, and a fullStack app/web developper  👨‍💻 </div>  
+### <div align="center">I'm Mouloud, software engineering student, and a fullStack app/web developper and distributed systems enthusiast    👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on [EventHUB](https://github.com/mouloud240/EVENT-HUB) | [Expense Tracker](https://github.com/mouloud240/Expense-Tracker-App)  
