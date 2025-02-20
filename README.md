@@ -134,7 +134,7 @@ Databases,and problem solving  .
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [Building Scalable Microservices with NestJS](https://dev.to/mouloud_hasrane_c99b0f49a/building-scalable-microservices-with-nestjs-5d16)
+- [Mastering Microservices with NestJS: A Practical Guide to Scalable Architectures](https://dev.to/mouloud_hasrane_c99b0f49a/building-scalable-microservices-with-nestjs-5d16)
 - [Understanding Replication and Sharding in System Design](https://dev.to/mouloud_hasrane_c99b0f49a/understanding-replication-and-sharding-in-system-design-50o)
 <!-- BLOG-POST-LIST:END -->  
 
