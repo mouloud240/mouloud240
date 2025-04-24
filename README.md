@@ -7,20 +7,20 @@
 </div>  
   
 
-### <div align="center">I'm Mouloud, software engineering student, a fullStack app/web developper and distributed systems  enthusiast    👨‍💻 </div>  
+### <div align="center">I'm Mouloud, a software engineer with a focus on  Backend  development, and a distributed systems  enthusiast    👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on [Expense Tracker](https://github.com/mouloud240/Expense-Tracker-App)  
   
 
-- 🌱 I’m currently learning machine learning with TensorFlow and sklearn and advanced nestJs topics  
+- 🌱 I’m currently learning machine learning with TensorFlow, sklearn, and advanced nestJs topics  
   
 
 - ❓ Ask me about anything related to Flutter development ,Backend Developement ,
-Databases,and problem solving  .
+Databases,and problem solving  .Nest js
   
 
-- ⚡ Fun fact: The first bug was an actual bug  
+- ⚡ Fun fact: The first bug was an actual bug   
   
 
 <br/>  
