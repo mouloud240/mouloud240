@@ -20,7 +20,7 @@
 - 🔭 I’m currently working on 
   
 
-- 🌱 I’m currently learning machine learning with TensorFlow, sklearn, and advanced nestJs topics  
+- 🌱 I’m currently learning  Advanced nestjs  & Backend Enginnering  intricacies 
   
 
 - ❓ Ask me about anything related to Flutter development ,Backend Developement ,
