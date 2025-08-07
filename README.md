@@ -7,7 +7,12 @@
 </div>  
   
 
-### <div align="center">I'm Mouloud, a software engineer with a focus on  Backend  development, and a distributed systems  enthusiast    👨‍💻 </div>  
+### <div align="center">I'm Mouloud, a software engineer with a focus on  Backend & sytems enginnering , and a distributed systems    👨‍💻 </div>  
+
+> *“Let the masses chase applause and ship forgettable junk.*  
+> *Let them worship ‘fast’ and celebrate the **barely functional.***  
+> *I build what **time** can’t ignore — not for claps, not for cash, but because mediocrity makes me sick.”*
+
   
 
 - 🔭 I’m currently working on 
