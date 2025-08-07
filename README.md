@@ -9,6 +9,8 @@
 
 ### <div align="center">I'm Mouloud, a software engineer with a focus on  Backend & sytems enginnering , and a distributed systems    👨‍💻 </div>  
 
+### 🧠 Philosophy
+
 > *“Let the masses chase applause and ship forgettable junk.*  
 > *Let them worship ‘fast’ and celebrate the **barely functional.***  
 > *I build what **time** can’t ignore — not for claps, not for cash, but because mediocrity makes me sick.”*
