@@ -142,6 +142,7 @@ Databases,and problem solving  .Nest js
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [WebSocket Authentication in NestJS: Handling JWT and Guards](https://dev.to/mouloud_hasrane_c99b0f49a/websocket-authentication-in-nestjs-handling-jwt-and-guards-4j27)
 - [Mastering Microservices with NestJS: A Practical Guide to Scalable Architectures](https://dev.to/mouloud_hasrane_c99b0f49a/building-scalable-microservices-with-nestjs-5d16)
 - [Understanding Replication and Sharding in System Design](https://dev.to/mouloud_hasrane_c99b0f49a/understanding-replication-and-sharding-in-system-design-50o)
 <!-- BLOG-POST-LIST:END -->  
