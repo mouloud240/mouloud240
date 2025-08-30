@@ -23,8 +23,8 @@
 - 🌱 I’m currently learning  Advanced nestjs  & Backend Enginnering  intricacies 
   
 
-- ❓ Ask me about anything related to Flutter development ,Backend Developement ,
-Databases,and problem solving  .Nest js
+- ❓ Ask me about anything related Backend Developement ,Nest js,
+Databases,and Systems design   
   
 
 - ⚡ Fun fact: The first bug was an actual bug   
