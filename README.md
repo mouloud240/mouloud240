@@ -8,6 +8,7 @@
   
 
 ### <div align="center">I'm Mouloud, a software engineer with a focus on  Backend & sytems enginnering , and a distributed systems     </div>  
+[![wakatime](https://wakatime.com/badge/user/2265fdab-b958-49d1-8175-d67f90ff4a63.svg)](https://wakatime.com/@2265fdab-b958-49d1-8175-d67f90ff4a63)
 
 ###  Philosophy
 
