@@ -7,9 +7,9 @@
 </div>  
   
 
-### <div align="center">I'm Mouloud, a software engineer with a focus on  Backend & sytems enginnering , and a distributed systems    👨‍💻 </div>  
+### <div align="center">I'm Mouloud, a software engineer with a focus on  Backend & sytems enginnering , and a distributed systems     </div>  
 
-### 🧠 Philosophy
+###  Philosophy
 
 > *“Let the masses chase applause and ship forgettable junk.*  
 > *Let them worship ‘fast’ and celebrate the **barely functional.***  
@@ -17,16 +17,16 @@
 
   
 
-- 🔭 I’m currently working on [Thor](https://github.com/mouloud240/Thor)
+-  I’m currently working on [Thor](https://github.com/mouloud240/Thor)
 
-- 🌱 I’m currently learning  Advanced nestjs  & Golang
+- I’m currently learning  Advanced nestjs  & Golang
   
 
-- ❓ Ask me about anything related Backend Developement ,Nest js,Golang,
+-  Ask me about anything related Backend Developement ,Nest js,Golang,
 Databases,and Systems design   
   
 
-- ⚡ Fun fact: The first bug was an actual bug   
+-  Fun fact: The first bug was an actual bug   
   
 
 <br/>  
